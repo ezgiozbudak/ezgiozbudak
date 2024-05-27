@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ezgi Dilan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezgiozbudak&label=Profile%20views&color=2c0725&style=flat" alt="ezgiozbudak" /> </p>
 
-- 🌱 I’m currently learning **MVC**
-
 - 👀 I’m interested in **Web Development**
 
 <h3 align="left">Connect with me:</h3>
